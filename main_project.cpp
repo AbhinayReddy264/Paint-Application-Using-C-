@@ -12,7 +12,7 @@ void structure(int width, int height)
     setcolor(0);
     setbkcolor(WHITE);
     // settextstyle(0,0,2);
-    outtextxy(width / 3, height - 45, (char *)"--------------------Graphics  Mini  Project ( DONE BY:: V V S Madhava )-------------------");
+    outtextxy(width / 3, height - 45, (char *)"--------------------Graphics  Mini  Project ( DONE BY::Y Abhinay Reddy )-------------------");
     // settextstyle(0,0,0);
     //  drawing place
     rectangle(width / 150, 230, width - 20, height - 70);
